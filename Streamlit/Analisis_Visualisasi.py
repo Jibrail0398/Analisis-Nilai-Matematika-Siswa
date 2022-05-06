@@ -1,3 +1,4 @@
+!pip install --upgrade matplotlib
 from bleach import clean
 import pandas as pd
 import matplotlib.pyplot as plt
